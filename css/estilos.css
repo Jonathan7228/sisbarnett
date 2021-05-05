@@ -1,0 +1,11 @@
+body{ background:#CCC; font-family:Verdana, Geneva, sans-serif; font-size:12px;}
+.campos_mayus{text-transform: uppercase;}
+.fondo_formularios{background-color:#999;}
+.color_letra{color:#000; font-size:11px;}
+.tamcolorletratitulos{color:#FFF; font-size:14px; font-weight:bold; }
+.tamcolorletratitulosMaestroPerfiles{color:#FFF; font-size:12px; }
+.tamcolorletratitulostablaresul{color:#FFF; font-size:13px; font-weight:900; text-align:center }
+.tamcolorletraformulario{color:#666; font-size:12px; font-weight:900; }
+.colorbarratitulos{background-color:#0038A8}
+.tablaformulario{background-color:#FFF}
+.tablaformularioindex{background-color:#FFF; border-radius: 20px 20px 20px 20px;}
